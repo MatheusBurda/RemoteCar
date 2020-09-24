@@ -4,6 +4,8 @@ Carrinho de controle remoto controlado pelo celular, usando Arduíno Uno e um ca
 
 ![CARRO](./imagens/Carro.png)
 
+[Explicação e detalhes no YouTube](https://youtu.be/Uu-jnYGt-Yw)
+
 ## Materiais
 
 * Carrinho de controle remoto convencional.
