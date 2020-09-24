@@ -1,6 +1,6 @@
 # RemoteCar
 
-Carrinho de controle remoto controlado pelo celular, usando Arduíno Uno e um carrinho de controle remoto antigo.
+Carrinho de controle remoto controlado pelo celular, usando Arduíno Uno e um carrinho antigo.
 
 ![CARRO](./imagens/Carro.png)
 
